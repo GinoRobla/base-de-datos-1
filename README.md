@@ -1,4 +1,4 @@
-# Base de Datos 1 – Ejercicios y Proyecto Final
+# Base de Datos 1 – Diagramas y MySql
 
 📘 Repositorio académico con ejercicios y proyectos desarrollados durante la cursada de **Base de Datos 1**. Incluye prácticas de modelado de datos, normalización, consultas SQL y un proyecto final de sistema de ventas.
 
